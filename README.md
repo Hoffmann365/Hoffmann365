@@ -1,18 +1,22 @@
-<h1>Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+# Olá, eu sou Davi Hoffmann!
 
-<p>My name is Davi Hoffmann and I'm a Front-End Dev and Game Dev, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Natal, Brazil</b> .</p>
+- 👨‍💻 Desenvolvedor Front-End e 🎮Programador de Jogos Digitais
+- 👾 Criando Bugs desde 2020
+- 📌 Vivo em: <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Natal, Brazil</b>
+- 📚 Estudando no momento: Inglês <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> e JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17" alt="javascript logo"  />
+- 🎯 Metas: me tornar um  Dev Fullstack 👨‍💻 e falar Inglês <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
+- 🎲 Curiosidades: eu toco guitarra 🎸 e assisto animes 📺
 
-## About me
+  ##
 
-- Creating bugs since 2020
-- 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> and JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17" alt="javascript logo"  />
-- 🎯 Goals: be a Fullstack Dev 👨‍💻 and speak English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
-- 🎲 Fun fact: i play guitar 🎸 and watch animes 📺</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoffmann365&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoffmann365&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="175" alt="languages graph"  />
+</div>
 
+  ##
 
-## I code with
-
-<div align="left">
+<div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -28,4 +32,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+  ##
+
+<div align="left">
+  <a href="https://www.instagram.com/davi_whagner/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:daviwhagner@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/davi-hoffmann" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
